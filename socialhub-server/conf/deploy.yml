@@ -1,0 +1,10 @@
+elasticsearch:
+  address: "http://10.128.0.2:9200"
+  username: "$USERNAME"
+  password: "$PASSWORD"
+
+gcs:
+  bucket: "qingyu-bucket"
+
+token:
+  secret: "secret"
